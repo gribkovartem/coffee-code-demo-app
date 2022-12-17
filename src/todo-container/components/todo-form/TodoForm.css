@@ -1,0 +1,20 @@
+.todo-form {
+  /* position: relative; */
+}
+
+.todo-form__description {
+  margin: 10px 0;
+}
+
+.todo-form__submit-button {
+  width: 100%;
+}
+
+.todo-form__close-button {
+  background: none;
+  padding: 0;
+  font-size: 24px;
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
